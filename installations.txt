@@ -1,0 +1,2 @@
+pip install deepface
+pip install tf-keras
